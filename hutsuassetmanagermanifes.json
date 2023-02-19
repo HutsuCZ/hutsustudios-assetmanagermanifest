@@ -1,0 +1,16 @@
+{
+    "name": "Hutsu Asset Manager",
+    "version": "1.0.0",
+    "description": "Why make it complicated when you can make it simple",
+    "unity": "2021.3.11f1 - 2022.2.x",
+    "assets": [
+        {
+            "name": "Interaction System (First Person 3D)",
+            "version": "1.1.0",
+            "description": "This package provides a player interaction system for Unity that uses raycasting to detect objects within range and displays text indicating the type of interaction that can be performed.",
+            "icon": "icon_url",
+            "download_url": "download_url",
+            "dependencies": []
+        }
+    ]
+}
